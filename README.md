@@ -1,6 +1,6 @@
 ### `Ubuntu System Cleaner and Maintenance Tool`
 
-```markdown
+
 # Ubuntu System Cleaner and Maintenance Tool
 
 A comprehensive Bash script designed to clean, optimize, and maintain Ubuntu-based systems, ensuring they are free from broken dependencies, unnecessary packages, and cached files. Ideal for keeping your system in top shape with minimal effort.
